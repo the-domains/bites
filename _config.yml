@@ -1,0 +1,28 @@
+name: bites
+favicon: null
+layout_spectrum: 0.04655513190664351
+typography_spectrum: 0.9683153342921287
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.895840103039518
+  lightness: 0.7395467611495405
+  saturation: 0.726613424019888
+  rhythmicContrast: 0.5192300910130143
+purpose: []
