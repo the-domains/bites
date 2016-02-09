@@ -1,7 +1,7 @@
 name: bites
 favicon: null
-layout_spectrum: 0.04655513190664351
-typography_spectrum: 0.9683153342921287
+layout_spectrum: 0.7447
+typography_spectrum: 0
 title: Bespoke Bites
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.895840103039518
-  lightness: 0.7395467611495405
-  saturation: 0.726613424019888
-  rhythmicContrast: 0.5192300910130143
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
